@@ -1,5 +1,6 @@
 " Initialize -----------------------------------------------------------------
 let s:plugin_name = 'quick-scope'
+let g:intervention_mp3 = expand('<sfile>:p:h:h') .'/intervention.mp3'
 
 if exists('g:loaded_quick_scope')
   finish

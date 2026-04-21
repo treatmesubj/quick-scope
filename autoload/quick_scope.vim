@@ -174,6 +174,7 @@ function! quick_scope#Reload() abort
   endif
 
   call quick_scope#UnhighlightLine()
+  call system('play -q ' . g:intervention_mp3 .' &')
 
   " Intentionally return an empty string.
   return ''
