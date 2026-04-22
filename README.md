@@ -4,6 +4,10 @@ you use <kbd>f</kbd>, <kbd>F</kbd> and family.
 
 ![screencast3](https://cloud.githubusercontent.com/assets/723755/8230149/6ecbed28-158b-11e5-9474-89e846e7682c.gif)
 
+### Now with audio 🔊
+
+https://github.com/user-attachments/assets/d7ada820-9250-4850-8170-304de06f2555
+
 This plugin should help you get to any word on a line in two or three
 keystrokes with Vim's built-in <kbd>f&lt;char&gt;</kbd> (which moves your cursor to
 <kbd>&lt;char&gt;</kbd>).
