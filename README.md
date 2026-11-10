@@ -8,6 +8,10 @@ you use <kbd>f</kbd>, <kbd>F</kbd> and family.
 
 https://github.com/user-attachments/assets/d7ada820-9250-4850-8170-304de06f2555
 
+#### Full Auto? 🔊
+https://github.com/user-attachments/assets/6747dde5-309b-47a8-a23f-fbbd2f478a56
+
+
 This plugin should help you get to any word on a line in two or three
 keystrokes with Vim's built-in <kbd>f&lt;char&gt;</kbd> (which moves your cursor to
 <kbd>&lt;char&gt;</kbd>).
